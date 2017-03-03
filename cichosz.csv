@@ -1,3 +1,4 @@
+Date,MorningWeight,YesterdayFactors
 2017-01-14,64.0,
 2017-01-15,64.1,sleep weighttraining auntsdinner cheescake,
 2017-01-16,64.1,no_sleep iceskating cheescake pasta,
@@ -31,3 +32,8 @@
 2017-02-22,62.4,no_sleep weighttraining cheescake rice nutbutter,
 2017-02-23,61.7,no_sleep negativecalories cheescake rice,
 2017-02-24,61.7,no_sleep weighttraining cheescake homebakedcandy:2 eatingout,
+2017-02-27,62.7,sleep woodchopping cheescake uberthought pasta nutbutter:2 bread candy homebakedcandy junkfood,
+2017-02-28,62.1,no_sleep hiit negativecalories nutbutter,
+2017-03-01,61.8,no_sleep weighttraining cheescake rice junkfood:0.5,
+2017-03-02,61.4,no_sleep negativecalories cheescake rice,
+2017-03-03,61.4,no_sleep weighttraining cheescake pasta,
