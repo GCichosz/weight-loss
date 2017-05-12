@@ -1,111 +1,120 @@
--3.30 | no_sleep hiit negativecalories cheescake break:0.5 no_sleep hiit negativecalories cheescake break:0.5 no_sleep hiit negativecalories cheescake break:0.5
+-3.30 | no_sleep hiit negativecalories cheescake no_sleep hiit negativecalories cheescake no_sleep hiit negativecalories cheescake
 3.00 | no_sleep pizza homebakedcandy icecreams:2 beer colazero no_sleep pizza homebakedcandy icecreams:2 beer colazero no_sleep pizza homebakedcandy icecreams:2 beer colazero
 -2.70 | no_sleep negativecalories cheescake nutbutter no_sleep negativecalories cheescake nutbutter no_sleep negativecalories cheescake nutbutter
 2.70 | sleep pizza homebakedcandy burgers colazero sleep pizza homebakedcandy burgers colazero sleep pizza homebakedcandy burgers colazero
 -2.70 | no_sleep weighttraining cheescake candy:2 no_sleep weighttraining cheescake candy:2 no_sleep weighttraining cheescake candy:2
 2.40 | no_sleep weighttraining burgers colazero wine:2 junkfood:3 no_sleep weighttraining burgers colazero wine:2 junkfood:3 no_sleep weighttraining burgers colazero wine:2 junkfood:3
--2.40 | no_sleep hiit negativecalories whitecheese bakedcandy:0.5 honey:0.3 break no_sleep hiit negativecalories whitecheese bakedcandy:0.5 honey:0.3 break no_sleep hiit negativecalories whitecheese bakedcandy:0.5 honey:0.3 break
--2.20 | no_sleep hiit negativecalories cheescake break:0.5 no_sleep hiit negativecalories cheescake break:0.5
+-2.40 | no_sleep hiit negativecalories whitecheese:0.5 bakedcandy:0.5 honey:0.3 no_sleep hiit negativecalories whitecheese:0.5 bakedcandy:0.5 honey:0.3 no_sleep hiit negativecalories whitecheese:0.5 bakedcandy:0.5 honey:0.3
+-2.20 | no_sleep hiit negativecalories cheescake no_sleep hiit negativecalories cheescake
 2.10 | no_sleep eatingout beer icecreams burgers bread no_sleep eatingout beer icecreams burgers bread no_sleep eatingout beer icecreams burgers bread
 -2.10 | no_sleep negativecalories cheescake rice no_sleep negativecalories cheescake rice no_sleep negativecalories cheescake rice
 -2.10 | no_sleep hiit negativecalories cheescake no_sleep hiit negativecalories cheescake no_sleep hiit negativecalories cheescake
--2.10 | no_sleep weighttraining negativecalories whitecheese nutbutter break no_sleep weighttraining negativecalories whitecheese nutbutter break no_sleep weighttraining negativecalories whitecheese nutbutter break
+-2.10 | no_sleep weighttraining negativecalories whitecheese:0.5 nutbutter no_sleep weighttraining negativecalories whitecheese:0.5 nutbutter no_sleep weighttraining negativecalories whitecheese:0.5 nutbutter
 2.00 | no_sleep pizza homebakedcandy icecreams:2 beer colazero no_sleep pizza homebakedcandy icecreams:2 beer colazero
 -1.80 | no_sleep negativecalories cheescake nutbutter no_sleep negativecalories cheescake nutbutter
--1.80 | no_sleep hiit negativecalories nutbutter break no_sleep hiit negativecalories nutbutter break no_sleep hiit negativecalories nutbutter break
+-1.80 | no_sleep hiit negativecalories nutbutter no_sleep hiit negativecalories nutbutter no_sleep hiit negativecalories nutbutter
 1.80 | sleep pizza homebakedcandy burgers colazero sleep pizza homebakedcandy burgers colazero
--1.80 | no_sleep weighttraining cycling chocolate cheescake cranberry rice milletgroats break:0.5 no_sleep weighttraining cycling chocolate cheescake cranberry rice milletgroats break:0.5 no_sleep weighttraining cycling chocolate cheescake cranberry rice milletgroats break:0.5
+-1.80 | no_sleep weighttraining cycling chocolate cheescake cranberry rice milletgroats no_sleep weighttraining cycling chocolate cheescake cranberry rice milletgroats no_sleep weighttraining cycling chocolate cheescake cranberry rice milletgroats
 1.80 | no_sleep hiit eatingout:2 candy:1.5 nutbutter no_sleep hiit eatingout:2 candy:1.5 nutbutter no_sleep hiit eatingout:2 candy:1.5 nutbutter
 -1.80 | no_sleep weighttraining cheescake candy:2 no_sleep weighttraining cheescake candy:2
 1.60 | no_sleep weighttraining burgers colazero wine:2 junkfood:3 no_sleep weighttraining burgers colazero wine:2 junkfood:3
--1.60 | no_sleep hiit negativecalories whitecheese bakedcandy:0.5 honey:0.3 break no_sleep hiit negativecalories whitecheese bakedcandy:0.5 honey:0.3 break
+-1.60 | no_sleep hiit negativecalories whitecheese:0.5 bakedcandy:0.5 honey:0.3 no_sleep hiit negativecalories whitecheese:0.5 bakedcandy:0.5 honey:0.3
 -1.50 | no_sleep negativecalories cheescake rice homebakedcandy no_sleep negativecalories cheescake rice homebakedcandy no_sleep negativecalories cheescake rice homebakedcandy
--1.50 | no_sleep hiit negativecalories break no_sleep hiit negativecalories break no_sleep hiit negativecalories break
-1.50 | no_sleep weighttraining nuts cheescake bakedcandy:0.5 break:0.5 no_sleep weighttraining nuts cheescake bakedcandy:0.5 break:0.5 no_sleep weighttraining nuts cheescake bakedcandy:0.5 break:0.5
--1.50 | no_sleep hiit negativecalories cycling whitecheese nutbutter break no_sleep hiit negativecalories cycling whitecheese nutbutter break no_sleep hiit negativecalories cycling whitecheese nutbutter break
+-1.50 | no_sleep hiit negativecalories no_sleep hiit negativecalories no_sleep hiit negativecalories
+1.50 | no_sleep weighttraining nuts cheescake bakedcandy:0.5 no_sleep weighttraining nuts cheescake bakedcandy:0.5 no_sleep weighttraining nuts cheescake bakedcandy:0.5
+-1.50 | no_sleep hiit negativecalories cycling whitecheese:0.5 nutbutter no_sleep hiit negativecalories cycling whitecheese:0.5 nutbutter no_sleep hiit negativecalories cycling whitecheese:0.5 nutbutter
 -1.50 | no_sleep hiit negativecalories cheescake colazero:0.5 no_sleep hiit negativecalories cheescake colazero:0.5 no_sleep hiit negativecalories cheescake colazero:0.5
+1.50 | no_sleep weighttraining avocado whitecheese buckwheatgroats homebakedcandy:0.3 no_sleep weighttraining avocado whitecheese buckwheatgroats homebakedcandy:0.3 no_sleep weighttraining avocado whitecheese buckwheatgroats homebakedcandy:0.3
 1.40 | no_sleep eatingout beer icecreams burgers bread no_sleep eatingout beer icecreams burgers bread
 -1.40 | no_sleep negativecalories cheescake rice no_sleep negativecalories cheescake rice
 -1.40 | no_sleep hiit negativecalories cheescake no_sleep hiit negativecalories cheescake
--1.40 | no_sleep weighttraining negativecalories whitecheese nutbutter break no_sleep weighttraining negativecalories whitecheese nutbutter break
+-1.40 | no_sleep weighttraining negativecalories whitecheese:0.5 nutbutter no_sleep weighttraining negativecalories whitecheese:0.5 nutbutter
 -1.20 | no_sleep hiit negativecalories no_sleep hiit negativecalories no_sleep hiit negativecalories
--1.20 | sleep weighttraining cheescake rice break:0.5 sleep weighttraining cheescake rice break:0.5 sleep weighttraining cheescake rice break:0.5
+-1.20 | sleep weighttraining cheescake rice sleep weighttraining cheescake rice sleep weighttraining cheescake rice
 -1.20 | no_sleep weighttraining cheescake rice no_sleep weighttraining cheescake rice no_sleep weighttraining cheescake rice
--1.20 | no_sleep hiit negativecalories break no_sleep hiit negativecalories break no_sleep hiit negativecalories break
+-1.20 | no_sleep hiit negativecalories no_sleep hiit negativecalories no_sleep hiit negativecalories
 -1.20 | no_sleep hiit negativecalories nutbutter no_sleep hiit negativecalories nutbutter no_sleep hiit negativecalories nutbutter
 -1.20 | no_sleep weighttraining cheescake rice nutbutter no_sleep weighttraining cheescake rice nutbutter no_sleep weighttraining cheescake rice nutbutter
--1.20 | no_sleep hiit negativecalories nutbutter break no_sleep hiit negativecalories nutbutter break
+-1.20 | no_sleep hiit negativecalories nutbutter no_sleep hiit negativecalories nutbutter
 -1.20 | no_sleep negativecalories cheescake rice no_sleep negativecalories cheescake rice no_sleep negativecalories cheescake rice
 -1.20 | no_sleep hiit negativecalories cheescake pasta milletgroats no_sleep hiit negativecalories cheescake pasta milletgroats no_sleep hiit negativecalories cheescake pasta milletgroats
--1.20 | no_sleep hiit negativecalories whitecheese break no_sleep hiit negativecalories whitecheese break no_sleep hiit negativecalories whitecheese break
--1.20 | no_sleep weighttraining cycling chocolate cheescake cranberry rice milletgroats break:0.5 no_sleep weighttraining cycling chocolate cheescake cranberry rice milletgroats break:0.5
-1.20 | no_sleep cheescake eatingout:1.5 beer:2 nuts candy:1.5 break:0.5 no_sleep cheescake eatingout:1.5 beer:2 nuts candy:1.5 break:0.5 no_sleep cheescake eatingout:1.5 beer:2 nuts candy:1.5 break:0.5
+-1.20 | no_sleep hiit negativecalories whitecheese:0.5 no_sleep hiit negativecalories whitecheese:0.5 no_sleep hiit negativecalories whitecheese:0.5
+-1.20 | no_sleep weighttraining cycling chocolate cheescake cranberry rice milletgroats no_sleep weighttraining cycling chocolate cheescake cranberry rice milletgroats
+1.20 | no_sleep cheescake eatingout:1.5 beer:2 nuts candy:1.5 no_sleep cheescake eatingout:1.5 beer:2 nuts candy:1.5 no_sleep cheescake eatingout:1.5 beer:2 nuts candy:1.5
 1.20 | no_sleep hiit eatingout:2 candy:1.5 nutbutter no_sleep hiit eatingout:2 candy:1.5 nutbutter
--1.10 | no_sleep hiit negativecalories cheescake break:0.5
+-1.20 | no_sleep hiit avocado cheescake nutbutter:2 buckwheatgroats homebakedcandy:0.3 no_sleep hiit avocado cheescake nutbutter:2 buckwheatgroats homebakedcandy:0.3 no_sleep hiit avocado cheescake nutbutter:2 buckwheatgroats homebakedcandy:0.3
+-1.10 | no_sleep hiit negativecalories cheescake
 -1.00 | no_sleep negativecalories cheescake rice homebakedcandy no_sleep negativecalories cheescake rice homebakedcandy
--1.00 | no_sleep hiit negativecalories break no_sleep hiit negativecalories break
+-1.00 | no_sleep hiit negativecalories no_sleep hiit negativecalories
 1.00 | no_sleep pizza homebakedcandy icecreams:2 beer colazero
-1.00 | no_sleep weighttraining nuts cheescake bakedcandy:0.5 break:0.5 no_sleep weighttraining nuts cheescake bakedcandy:0.5 break:0.5
--1.00 | no_sleep hiit negativecalories cycling whitecheese nutbutter break no_sleep hiit negativecalories cycling whitecheese nutbutter break
+1.00 | no_sleep weighttraining nuts cheescake bakedcandy:0.5 no_sleep weighttraining nuts cheescake bakedcandy:0.5
+-1.00 | no_sleep hiit negativecalories cycling whitecheese:0.5 nutbutter no_sleep hiit negativecalories cycling whitecheese:0.5 nutbutter
 -1.00 | no_sleep hiit negativecalories cheescake colazero:0.5 no_sleep hiit negativecalories cheescake colazero:0.5
+1.00 | no_sleep weighttraining avocado whitecheese buckwheatgroats homebakedcandy:0.3 no_sleep weighttraining avocado whitecheese buckwheatgroats homebakedcandy:0.3
 0.90 | no_sleep cheescake eatingout no_sleep cheescake eatingout no_sleep cheescake eatingout
--0.90 | no_sleep weighttraining cheescake eatingout break:0.5 no_sleep weighttraining cheescake eatingout break:0.5 no_sleep weighttraining cheescake eatingout break:0.5
+-0.90 | no_sleep weighttraining cheescake eatingout no_sleep weighttraining cheescake eatingout no_sleep weighttraining cheescake eatingout
 -0.90 | no_sleep negativecalories cheescake nutbutter
--0.90 | no_sleep weighttraining cheescake rice junkfood:0.5 break:0.5 no_sleep weighttraining cheescake rice junkfood:0.5 break:0.5 no_sleep weighttraining cheescake rice junkfood:0.5 break:0.5
+-0.90 | no_sleep weighttraining cheescake rice junkfood:0.5 no_sleep weighttraining cheescake rice junkfood:0.5 no_sleep weighttraining cheescake rice junkfood:0.5
 -0.90 | no_sleep pizza homebakedcandy junkfood cola whisky no_sleep pizza homebakedcandy junkfood cola whisky no_sleep pizza homebakedcandy junkfood cola whisky
 0.90 | sleep pizza homebakedcandy burgers colazero
-0.90 | no_sleep weighttraining cycling chocolate cheescake cranberry rice nutbutter milletgroats break:0.5 no_sleep weighttraining cycling chocolate cheescake cranberry rice nutbutter milletgroats break:0.5 no_sleep weighttraining cycling chocolate cheescake cranberry rice nutbutter milletgroats break:0.5
+0.90 | no_sleep weighttraining cycling chocolate cheescake cranberry rice nutbutter milletgroats no_sleep weighttraining cycling chocolate cheescake cranberry rice nutbutter milletgroats no_sleep weighttraining cycling chocolate cheescake cranberry rice nutbutter milletgroats
 -0.90 | no_sleep weighttraining cheescake candy:2
 -0.80 | no_sleep hiit negativecalories no_sleep hiit negativecalories
--0.80 | sleep weighttraining cheescake rice break:0.5 sleep weighttraining cheescake rice break:0.5
+-0.80 | sleep weighttraining cheescake rice sleep weighttraining cheescake rice
 -0.80 | no_sleep weighttraining cheescake rice no_sleep weighttraining cheescake rice
--0.80 | no_sleep hiit negativecalories break no_sleep hiit negativecalories break
+-0.80 | no_sleep hiit negativecalories no_sleep hiit negativecalories
 0.80 | no_sleep weighttraining burgers colazero wine:2 junkfood:3
 -0.80 | no_sleep hiit negativecalories nutbutter no_sleep hiit negativecalories nutbutter
 -0.80 | no_sleep weighttraining cheescake rice nutbutter no_sleep weighttraining cheescake rice nutbutter
 -0.80 | no_sleep negativecalories cheescake rice no_sleep negativecalories cheescake rice
--0.80 | no_sleep hiit negativecalories whitecheese bakedcandy:0.5 honey:0.3 break
+-0.80 | no_sleep hiit negativecalories whitecheese:0.5 bakedcandy:0.5 honey:0.3
 -0.80 | no_sleep hiit negativecalories cheescake pasta milletgroats no_sleep hiit negativecalories cheescake pasta milletgroats
--0.80 | no_sleep hiit negativecalories whitecheese break no_sleep hiit negativecalories whitecheese break
-0.80 | no_sleep cheescake eatingout:1.5 beer:2 nuts candy:1.5 break:0.5 no_sleep cheescake eatingout:1.5 beer:2 nuts candy:1.5 break:0.5
+-0.80 | no_sleep hiit negativecalories whitecheese:0.5 no_sleep hiit negativecalories whitecheese:0.5
+0.80 | no_sleep cheescake eatingout:1.5 beer:2 nuts candy:1.5 no_sleep cheescake eatingout:1.5 beer:2 nuts candy:1.5
+-0.80 | no_sleep hiit avocado cheescake nutbutter:2 buckwheatgroats homebakedcandy:0.3 no_sleep hiit avocado cheescake nutbutter:2 buckwheatgroats homebakedcandy:0.3
 0.70 | no_sleep eatingout beer icecreams burgers bread
 -0.70 | no_sleep negativecalories cheescake rice
 -0.70 | no_sleep hiit negativecalories cheescake
--0.70 | no_sleep weighttraining negativecalories whitecheese nutbutter break
+-0.70 | no_sleep weighttraining negativecalories whitecheese:0.5 nutbutter
 0.60 | no_sleep cheescake eatingout no_sleep cheescake eatingout
--0.60 | no_sleep weighttraining cheescake eatingout break:0.5 no_sleep weighttraining cheescake eatingout break:0.5
--0.60 | no_sleep hiit negativecalories nutbutter break
--0.60 | no_sleep weighttraining cheescake rice junkfood:0.5 break:0.5 no_sleep weighttraining cheescake rice junkfood:0.5 break:0.5
+-0.60 | no_sleep weighttraining cheescake eatingout no_sleep weighttraining cheescake eatingout
+-0.60 | no_sleep hiit negativecalories nutbutter
+-0.60 | no_sleep weighttraining cheescake rice junkfood:0.5 no_sleep weighttraining cheescake rice junkfood:0.5
 -0.60 | no_sleep pizza homebakedcandy junkfood cola whisky no_sleep pizza homebakedcandy junkfood cola whisky
-0.60 | no_sleep weighttraining cycling chocolate cheescake cranberry rice nutbutter milletgroats break:0.5 no_sleep weighttraining cycling chocolate cheescake cranberry rice nutbutter milletgroats break:0.5
--0.60 | no_sleep weighttraining cycling chocolate cheescake cranberry rice milletgroats break:0.5
+0.60 | no_sleep weighttraining cycling chocolate cheescake cranberry rice nutbutter milletgroats no_sleep weighttraining cycling chocolate cheescake cranberry rice nutbutter milletgroats
+-0.60 | no_sleep weighttraining cycling chocolate cheescake cranberry rice milletgroats
 0.60 | no_sleep hiit eatingout:2 candy:1.5 nutbutter
 -0.50 | no_sleep negativecalories cheescake rice homebakedcandy
--0.50 | no_sleep hiit negativecalories break
-0.50 | no_sleep weighttraining nuts cheescake bakedcandy:0.5 break:0.5
--0.50 | no_sleep hiit negativecalories cycling whitecheese nutbutter break
+-0.50 | no_sleep hiit negativecalories
+0.50 | no_sleep weighttraining nuts cheescake bakedcandy:0.5
+-0.50 | no_sleep hiit negativecalories cycling whitecheese:0.5 nutbutter
 -0.50 | no_sleep hiit negativecalories cheescake colazero:0.5
+0.50 | no_sleep weighttraining avocado whitecheese buckwheatgroats homebakedcandy:0.3
 -0.40 | no_sleep hiit negativecalories
--0.40 | sleep weighttraining cheescake rice break:0.5
+-0.40 | sleep weighttraining cheescake rice
 -0.40 | no_sleep weighttraining cheescake rice
--0.40 | no_sleep hiit negativecalories break
+-0.40 | no_sleep hiit negativecalories
 -0.40 | no_sleep hiit negativecalories nutbutter
 -0.40 | no_sleep weighttraining cheescake rice nutbutter
 -0.40 | no_sleep negativecalories cheescake rice
 -0.40 | no_sleep hiit negativecalories cheescake pasta milletgroats
--0.40 | no_sleep hiit negativecalories whitecheese break
-0.40 | no_sleep cheescake eatingout:1.5 beer:2 nuts candy:1.5 break:0.5
+-0.40 | no_sleep hiit negativecalories whitecheese:0.5
+0.40 | no_sleep cheescake eatingout:1.5 beer:2 nuts candy:1.5
+-0.40 | no_sleep hiit avocado cheescake nutbutter:2 buckwheatgroats homebakedcandy:0.3
 0.30 | sleep weighttraining cheescake sleep weighttraining cheescake sleep weighttraining cheescake
 0.30 | no_sleep weighttraining cheescake pasta no_sleep weighttraining cheescake pasta no_sleep weighttraining cheescake pasta
 0.30 | no_sleep cheescake eatingout
--0.30 | no_sleep weighttraining cheescake eatingout break:0.5
--0.30 | no_sleep weighttraining cheescake rice junkfood:0.5 break:0.5
+-0.30 | no_sleep weighttraining cheescake eatingout
+-0.30 | no_sleep weighttraining cheescake rice junkfood:0.5
 -0.30 | no_sleep pizza homebakedcandy junkfood cola whisky
-0.30 | no_sleep weighttraining cycling chocolate cheescake cranberry rice nutbutter milletgroats break:0.5
+0.30 | no_sleep weighttraining cycling chocolate cheescake cranberry rice nutbutter milletgroats
+0.30 | no_sleep cheescake bakedcandy:0.5 eatingout beer:1.5 no_sleep cheescake bakedcandy:0.5 eatingout beer:1.5 no_sleep cheescake bakedcandy:0.5 eatingout beer:1.5
 0.20 | sleep weighttraining cheescake sleep weighttraining cheescake
 0.20 | no_sleep weighttraining cheescake pasta no_sleep weighttraining cheescake pasta
+0.20 | no_sleep cheescake bakedcandy:0.5 eatingout beer:1.5 no_sleep cheescake bakedcandy:0.5 eatingout beer:1.5
 0.10 | sleep weighttraining cheescake
 0.10 | no_sleep weighttraining cheescake pasta
+0.10 | no_sleep cheescake bakedcandy:0.5 eatingout beer:1.5
 0.00 | no_sleep cheescake pasta
 0.00 | no_sleep cheescake pasta no_sleep cheescake pasta
 0.00 | no_sleep cheescake pasta no_sleep cheescake pasta no_sleep cheescake pasta
@@ -115,21 +124,21 @@
 0.00 | no_sleep negativecalories cheescake rice
 0.00 | no_sleep negativecalories cheescake rice no_sleep negativecalories cheescake rice
 0.00 | no_sleep negativecalories cheescake rice no_sleep negativecalories cheescake rice no_sleep negativecalories cheescake rice
-0.00 | sleep hiit negativecalories break
-0.00 | sleep hiit negativecalories break sleep hiit negativecalories break
-0.00 | sleep hiit negativecalories break sleep hiit negativecalories break sleep hiit negativecalories break
-0.00 | no_sleep hiit negativecalories break
-0.00 | no_sleep hiit negativecalories break no_sleep hiit negativecalories break
-0.00 | no_sleep hiit negativecalories break no_sleep hiit negativecalories break no_sleep hiit negativecalories break
-0.00 | no_sleep weighttraining cheescake rice oliveoil break:0.5
-0.00 | no_sleep weighttraining cheescake rice oliveoil break:0.5 no_sleep weighttraining cheescake rice oliveoil break:0.5
-0.00 | no_sleep weighttraining cheescake rice oliveoil break:0.5 no_sleep weighttraining cheescake rice oliveoil break:0.5 no_sleep weighttraining cheescake rice oliveoil break:0.5
+0.00 | sleep hiit negativecalories
+0.00 | sleep hiit negativecalories sleep hiit negativecalories
+0.00 | sleep hiit negativecalories sleep hiit negativecalories sleep hiit negativecalories
+0.00 | no_sleep hiit negativecalories
+0.00 | no_sleep hiit negativecalories no_sleep hiit negativecalories
+0.00 | no_sleep hiit negativecalories no_sleep hiit negativecalories no_sleep hiit negativecalories
+0.00 | no_sleep weighttraining cheescake rice oliveoil
+0.00 | no_sleep weighttraining cheescake rice oliveoil no_sleep weighttraining cheescake rice oliveoil
+0.00 | no_sleep weighttraining cheescake rice oliveoil no_sleep weighttraining cheescake rice oliveoil no_sleep weighttraining cheescake rice oliveoil
 0.00 | no_sleep weighttraining cheescake pasta nutbutter homebakedcandy:0.2
 0.00 | no_sleep weighttraining cheescake pasta nutbutter homebakedcandy:0.2 no_sleep weighttraining cheescake pasta nutbutter homebakedcandy:0.2
 0.00 | no_sleep weighttraining cheescake pasta nutbutter homebakedcandy:0.2 no_sleep weighttraining cheescake pasta nutbutter homebakedcandy:0.2 no_sleep weighttraining cheescake pasta nutbutter homebakedcandy:0.2
-0.00 | no_sleep weighttraining cheescake rice nutbutter break:0.5
-0.00 | no_sleep weighttraining cheescake rice nutbutter break:0.5 no_sleep weighttraining cheescake rice nutbutter break:0.5
-0.00 | no_sleep weighttraining cheescake rice nutbutter break:0.5 no_sleep weighttraining cheescake rice nutbutter break:0.5 no_sleep weighttraining cheescake rice nutbutter break:0.5
+0.00 | no_sleep weighttraining cheescake rice nutbutter
+0.00 | no_sleep weighttraining cheescake rice nutbutter no_sleep weighttraining cheescake rice nutbutter
+0.00 | no_sleep weighttraining cheescake rice nutbutter no_sleep weighttraining cheescake rice nutbutter no_sleep weighttraining cheescake rice nutbutter
 0.00 | no_sleep negativecalories cheescake rice
 0.00 | no_sleep negativecalories cheescake rice no_sleep negativecalories cheescake rice
 0.00 | no_sleep negativecalories cheescake rice no_sleep negativecalories cheescake rice no_sleep negativecalories cheescake rice
@@ -148,9 +157,12 @@
 0.00 | no_sleep weighttraining cheescake pasta nutbutter
 0.00 | no_sleep weighttraining cheescake pasta nutbutter no_sleep weighttraining cheescake pasta nutbutter
 0.00 | no_sleep weighttraining cheescake pasta nutbutter no_sleep weighttraining cheescake pasta nutbutter no_sleep weighttraining cheescake pasta nutbutter
-0.00 | no_sleep weighttraining eatingout junkfood:0.5 candy homebakedcandy:0.3 oatmeal break
-0.00 | no_sleep weighttraining eatingout junkfood:0.5 candy homebakedcandy:0.3 oatmeal break no_sleep weighttraining eatingout junkfood:0.5 candy homebakedcandy:0.3 oatmeal break
-0.00 | no_sleep weighttraining eatingout junkfood:0.5 candy homebakedcandy:0.3 oatmeal break no_sleep weighttraining eatingout junkfood:0.5 candy homebakedcandy:0.3 oatmeal break no_sleep weighttraining eatingout junkfood:0.5 candy homebakedcandy:0.3 oatmeal break
+0.00 | no_sleep weighttraining eatingout junkfood:0.5 candy homebakedcandy:0.3 oatmeal
+0.00 | no_sleep weighttraining eatingout junkfood:0.5 candy homebakedcandy:0.3 oatmeal no_sleep weighttraining eatingout junkfood:0.5 candy homebakedcandy:0.3 oatmeal
+0.00 | no_sleep weighttraining eatingout junkfood:0.5 candy homebakedcandy:0.3 oatmeal no_sleep weighttraining eatingout junkfood:0.5 candy homebakedcandy:0.3 oatmeal no_sleep weighttraining eatingout junkfood:0.5 candy homebakedcandy:0.3 oatmeal
 0.00 | no_sleep weighttraining negativecalories cheescake nutbutter
 0.00 | no_sleep weighttraining negativecalories cheescake nutbutter no_sleep weighttraining negativecalories cheescake nutbutter
 0.00 | no_sleep weighttraining negativecalories cheescake nutbutter no_sleep weighttraining negativecalories cheescake nutbutter no_sleep weighttraining negativecalories cheescake nutbutter
+0.00 | no_sleep weighttraining cheescake nutbutter rice whey
+0.00 | no_sleep weighttraining cheescake nutbutter rice whey no_sleep weighttraining cheescake nutbutter rice whey
+0.00 | no_sleep weighttraining cheescake nutbutter rice whey no_sleep weighttraining cheescake nutbutter rice whey no_sleep weighttraining cheescake nutbutter rice whey
